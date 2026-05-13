@@ -10,4 +10,4 @@
 Abdel Obed Catalan Gallardo <br>
 <img width="200" height="267" alt="abdel" src="https://github.com/user-attachments/assets/c99be10b-6a04-4900-b00a-9ce1f2a230bf" /> <br>
 Jean Carlos Ceniceros Uribe <br>
-<img width="200" height="356" alt="jean" src="https://github.com/user-attachments/assets/079e54f3-c407-468f-87ee-6f420403252e" />
+<img width="200" height="267" alt="jean" src="https://github.com/user-attachments/assets/079e54f3-c407-468f-87ee-6f420403252e" />
