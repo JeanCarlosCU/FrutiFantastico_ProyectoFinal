@@ -7,7 +7,6 @@
 #### Fruta dulce:Cereza, Ciruela, Kaki, Manzana, Melocotón, Pera y Uva<br>
 #### Frutos secos:Almendra, Avellana, Cacahuete, Castaña, Nuez y Pistacho <br>
 
-#### El codigo ahora tiene registro e inicio de sesion junto con una recuperacion de contraseña por si el usuario olvida la contraseña.
 
 #### Nota: El codigo se corre con uv run app.py
 
